@@ -21,6 +21,7 @@ Script memperpendek url dengan termux from bitly.com
 ```js
 $ pkg update && pkg upgrade
 $ pkg install jq
+$ pkg install git
 $ git clone https://github.com/Musk-ID/Bitly
 $ cd Bitly
 $ bash short.sh
